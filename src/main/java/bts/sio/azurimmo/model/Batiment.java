@@ -23,5 +23,7 @@ public class Batiment {
 
 	 @Column(name="ville")
 	 private String ville;
+	 
+	 
 
 }
